@@ -90,6 +90,9 @@ class DatePicker {
 
       case 'pl':
         return DateTimePickerLocale.pl;
+	
+      case 'sr':
+        return DateTimePickerLocale.sr;
 
       default:
         return DateTimePickerLocale.en_us;
